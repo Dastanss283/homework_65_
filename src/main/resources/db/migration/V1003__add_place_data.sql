@@ -1,0 +1,25 @@
+use `edufood`;
+
+ insert into `places` (`name`, `address`, `image`)
+ values ('That Bar', '', ''),
+        ('Juju bar and grill', '', ''),
+        ('The Rocinante', '', ''),
+        ('Brand canteen', '', ''),
+        ('Fionn MacCool', '', ''),
+        ('Nuthouse Grill', '', ''),
+        ('McCornlands', '', ''),
+        ('Kickapoo Inn', '', ''),
+        ('Capers Cafe Le Bar', '', ''),
+        ('White River Fish Market', '', ''),
+        ('Mai Thai Cuisine', '', ''),
+        ('Faustina', '', ''),
+        ('Windjammer Sports Bar', '', ''),
+        ('Kiku Japanese Steakhouse', '', ''),
+        ('Ponderosa Pines', '', ''),
+        ('Mountain Village Lounge', '', ''),
+        ('Brothers Grimm', '', ''),
+        ('Rockerfellas', '', ''),
+        ('Sparta Club Oasis', '', ''),
+        ('Howling Coyote', '', ''),
+        ('Surf Shack', '', ''),
+        ('Mad Dogs British Pub', '', '');
